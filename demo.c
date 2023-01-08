@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
+    int num;
+    scanf("%d",&num);
     printf("Welcone to my website");
-    printf("Thank you");
     return 0;
 }
